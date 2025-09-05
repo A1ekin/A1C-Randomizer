@@ -57,7 +57,7 @@ A1C Randomizer — удобный визуальный инструмент дл
 
     </td>
     <td>
-      <img src="img/screen-1.png" alt="Лого" width="300">
+      <img src="img/screen-1.png" alt="Лого" width="350">
     </td>
 
   </tr>
