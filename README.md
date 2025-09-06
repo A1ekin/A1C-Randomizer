@@ -14,7 +14,7 @@ A1C Randomizer — удобный визуальный инструмент дл
 
 ## 1. Установка и запуск
 
-- Скачайте актуальную версию со [страницы релизов](https://github.com/A1ekin/A1C-Randomizer/releases).  
+- Скачайте актуальную версию со [страницы релизов](https://github.com/A1ekin/A1C-Randomizer/releases/latest).  
 
 - Убедитесь, что рядом с `randomizer.exe` находится хотя бы один `.cfg` файл со списком элементов.  
   В архиве есть пример файла: `example list.cfg`.
